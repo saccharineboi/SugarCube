@@ -29,7 +29,7 @@ My attempt at making my own mini game console using Raspberry Pi Pico W. Program
 
 ## License
 
-Copyright (C) 2024 saccharineboi
+Copyright (C) 2024 Omar Huseynov
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by

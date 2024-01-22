@@ -1,7 +1,4 @@
 #!/bin/bash
-#
-# @author saccharineboi
-# @license GPLv3
 
 mkdir -p build
 cd build

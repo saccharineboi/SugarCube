@@ -1,4 +1,4 @@
-# @author saccharineboi
+# @author Omar Huseynov
 # @license GPLv3
 
 cmake_minimum_required(VERSION 3.12)
